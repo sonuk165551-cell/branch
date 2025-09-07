@@ -13,4 +13,4 @@ function updateb(){
     balance+=90;
 }
 updateb();
-
+console.log("Mein hu hero tera");
