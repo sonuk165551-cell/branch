@@ -14,3 +14,5 @@ function updateb(){
 }
 updateb();
 console.log("Mein hu hero tera");
+console.log("Money Honey");
+console.log("final bug");
