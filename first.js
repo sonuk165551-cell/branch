@@ -15,3 +15,4 @@ function updateb(){
 updateb();
 
 console.log("Money Honey");
+console.log("final bug");
