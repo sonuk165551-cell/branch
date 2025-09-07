@@ -1,7 +1,7 @@
 const name = "sonu";
 const age = 20;
 const balance = 300;
-
+const val = 20;
 
 
 
@@ -18,6 +18,6 @@ console.log("Money Honey");
 console.log("final bug");
 
 function showage(){
-    console.log(age);
+    console.log(age+val);
 }
 showage();
