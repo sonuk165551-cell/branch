@@ -14,3 +14,4 @@ function updateb(){
 }
 updateb();
 
+console.log("Money Honey");
