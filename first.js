@@ -7,3 +7,10 @@ const balance = 300;
 
 
 console.log("Hello coder");
+console.log("hello ji")
+
+function updateb(){
+    balance+=90;
+}
+updateb();
+
