@@ -28,3 +28,6 @@ function valueChange(){
 }
 valueChange();
 console.log("conflict on merging");
+
+//creating bug fix
+console.log("Bug is fixed");
