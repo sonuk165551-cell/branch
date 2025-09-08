@@ -23,3 +23,8 @@ function showage(){
 showage();
 
 console.log("hello changes do");
+function valueChange(){
+    val+= 12;
+}
+valueChange();
+console.log("conflict on merging");
